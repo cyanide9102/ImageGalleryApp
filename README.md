@@ -1,7 +1,7 @@
 # ImageGalleryApp
 ### A demonstration app in Clean Architecture
 
-First, make sure to update connection string in appsettings.json.
+Make sure to update connection string in appsettings.json.
 
 Update database using the dotnet cli command..
 ```
